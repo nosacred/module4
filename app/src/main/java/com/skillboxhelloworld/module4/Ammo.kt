@@ -8,7 +8,7 @@ enum class Ammo (
     private val criticalChance:Int,
     private val criticalMult:Int
 ){
-    BulletPistol(10,3,2),
+    BulletPistol(15,3,2),
     BulletGun(25,5,3),
     BulletRifle(40,10,5);
 
